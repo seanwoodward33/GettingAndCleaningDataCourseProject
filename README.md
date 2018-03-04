@@ -23,3 +23,5 @@ The R script, `run_analysis.R`, contains the function 'cleanData()', which perfo
 - Tidies up the column names to remove abbreviations/typos
 - Outputs, to a text file called 'tidy_data.txt.', an independent tidy data set with the average of each variable for each activity and each subject
 - Returns the full tidy dataset for use later if needed
+
+N.B. This script assumes the data to be imported has already been downloaded, unzipped and is in the working directory that the function is called in.
