@@ -33,7 +33,9 @@ All measurements given are the mean value of multiple readings. All values are b
 
 The measurements are clasified into one of two domains, either in the time domain or the frequency domain. Frequency domain signals are achieved by performing a FFT to the time domain signals.
 
-### Mean values of the body accelerometer in the X, Y and Z direction in the time domain (meters / seconds^2)
+The accelerometer from the smartphone measures in standard gravity units 'g' and the body acceleration is obtained by subtracting the gravity from the total acceleration. Angular velocity vectors measured by the gyroscope are given in units of radians/second. Jerk is the rate of change of acceleration.
+
+### Mean values of the body accelerometer in the X, Y and Z direction in the time domain
 
 - 'timeDomainBodyAccelerometerMeanX'
 - 'timeDomainBodyAccelerometerMeanY'
