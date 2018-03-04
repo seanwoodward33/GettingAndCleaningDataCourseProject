@@ -33,7 +33,7 @@ All measurements given are the mean value of multiple readings. All values are b
 
 The measurements are clasified into one of two domains, either in the time domain or the frequency domain. Frequency domain signals are achieved by performing a FFT to the time domain signals.
 
-### Mean values of the body accelerometer in the X, Y and Z direction in the time domain
+### Mean values of the body accelerometer in the X, Y and Z direction in the time domain (meters / seconds^2)
 
 - 'timeDomainBodyAccelerometerMeanX'
 - 'timeDomainBodyAccelerometerMeanY'
